@@ -1,0 +1,1 @@
+DROP DATABASE IF EXISTS language_learning_db;
